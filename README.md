@@ -1,6 +1,6 @@
 # react-ecommerce-client
 
 ## Demo
-![Demo](src\assets\demo\demo.png)
+![Demo](\assets\demo\demo.png)
 
 
